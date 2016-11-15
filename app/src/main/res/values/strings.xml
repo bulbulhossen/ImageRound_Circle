@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cass one</string>
+    <string name="action_settings">WheelView</string>
 </resources>
